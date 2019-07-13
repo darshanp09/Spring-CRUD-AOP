@@ -1,0 +1,7 @@
+#
+#Fri Jul 12 19:37:06 CDT 2019
+com.luv2code.springdemo.service.CustomerServiceImpl=org.springframework.stereotype.Component
+com.luv2code.springdemo.controller.CustomerController=org.springframework.stereotype.Component
+com.luv2code.springdemo.dao.CustomerDaoImpl=org.springframework.stereotype.Component
+com.luv2code.springdemo.entity.Customer=javax.persistence.Entity,org.springframework.stereotype.Component,javax.persistence.Table,javax.persistence.NamedQueries
+com.luv2code.springdemo.aspect.CRMLoggingAspect=org.springframework.stereotype.Component
